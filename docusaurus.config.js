@@ -20,7 +20,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'iterma-wiki', // Usually your GitHub org/user name.
+  organizationName: 'Iterma-wiki', // Usually your GitHub org/user name.
   projectName: 'A', // Usually your repo name.
   trailingSlash: false,
   onBrokenLinks: 'throw',
