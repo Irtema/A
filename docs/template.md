@@ -40,4 +40,4 @@ Template 9.
 
 ## Related Pages
 
-- [Template](./Template)
+- [Template](./template)
