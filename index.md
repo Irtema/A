@@ -11,6 +11,12 @@ Welcome Irtema, the unofficial wiki of Scorcher!
 You can contact by email: Irtema 🅰️🇹 pm D🅾️T me
 Help is welcome and you will remain anonymous.
 
+## Stats, skills and psionics
+Information about the stats, skills, and psionic powers characters can have.
+- **Stats (docs/stats)**
+- **Skills (docs/skills)**
+- **Psihrs (docs/psihrs)**
+
 ## Explore the Lodges
 A guide to the Great Lodges and the characters.
 
@@ -20,7 +26,7 @@ The Celestials are foreigners to Isfet, they want to maintain Haramoney by diplo
 
 - **Archon:[Vizier](./vizier)**
   - **[Airman](./airman)** – Pilot of Chiron ship
-  - **[Concubine](./concubine)** – Vizier's partner.
+  - **[Concubine](docs/celestial/concubine)** – Vizier's partner.
   - **[Ruinologist](./ruinologist)** - Celestial explorers who explore ruins and recover artifacts.
   - **[Traumaturge](./traumaturge)** - Celestial physician.
   - **[Quaestor & Quaestor-Analyst](./quaestor)** - Wandering Celestial lawmen who investigate Veiled Jihad.
@@ -52,8 +58,8 @@ The Karaheem led the rebellion against the Mejjikh.
 A militant lodge, they are responsible for fighting the ooze and the creatures that threaten recolonisation.
 
 - **Archon:[Tarkhan](./tarkhan)**
-  - **[Subay](./subay)** - Hunter of psionic users.
-  - **[Harpy](./harpy)** - Gene modified warrior female.
+  - **[Afshagar](./afshagar)** - Hunter of psionic users.
+  - **[Harpy](docs/karaheem/harpy)** - Gene modified warrior female.
 	
 
 ### 🗱 **Bruckner**
@@ -90,7 +96,7 @@ The planet's smallest lodge, currently under quarantine due to contagious tumors
 Destitute, impoverished, and rarely seen outside of Eriph, they are a melancholic and lost people.
 
 - **Archon: None**
-- **[Weaver](./weaver)** - Fight ifreet with equipment and prayer ceremony. Maintainence worker for the Psi-Amplifier.
+- **[Weaver](./weaver)** - Fight ifreet with equipment and prayer ceremony. Worker for the Psi-Amplifier.
 
 ### **Other**
 > _"..."_  
