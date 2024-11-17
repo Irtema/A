@@ -13,9 +13,9 @@ Help is welcome and you will remain anonymous.
 
 ## Stats, skills and psionics
 Information about the stats, skills, and psionic powers characters can have.
-- **[Stats] (docs/stats)**
-- **[Skills] (docs/skills)**
-- **[Psihrs] (docs/psihrs)**
+- **[Stats](docs/stats)**
+- **[Skills](docs/skills)**
+- **[Psihrs](docs/psihrs)**
 
 ## Explore the Lodges
 A guide to the Great Lodges and the characters.
