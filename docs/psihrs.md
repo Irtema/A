@@ -16,6 +16,7 @@ Each lodge has its own sect of Psihrs which approach Psionics differently.
 ## Sects Overview
 
 - **Sect of Orchestration** - The default sect, accessible by all Faqirs. 16 Psihrs.
+- **Sect of the Silent Knowledge** - The Eriphot sect, specialising in stealth and defence. 9 Psihrs.
 
 ---
 
@@ -41,5 +42,23 @@ Each lodge has its own sect of Psihrs which approach Psionics differently.
 | **Distortion Thunder**		| The micro-distortions and stresses introduced into the fabric of space cause a powerful sound, deafening and stunning everyone who hears it. A Stoicism HT roll prevents stunning.|
 | **Ruthless Banishment** 		|	|
 | **Demand Help**				|	|
+
+---
+
+## Sect of the Silent Knowledge
+
+### Psihr
+
+| Psihr Name					| Description                                                              |
+|-------------------------------|--------------------------------------------------------------------------|
+| **Outflow of Fate**			| Non-alert humans standing close will grow tired, replenishing (1xNumber 1) AT for the predictor|
+| **Unlucky Day**				| |
+| **Omniscience**				| |
+| **Unknowable**				| |
+| **Combat Precognition**		| |
+| **Wind Prediction**			| |
+| **Sense of Weakness**			| |
+| **Bullet Avoidance**			| |
+| **Black Revelations**			| |
 
 ---

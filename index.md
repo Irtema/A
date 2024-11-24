@@ -24,7 +24,7 @@ A guide to the Great Lodges and the characters.
 > _"..."
 The Celestials are foreigners to Isfet, they want to maintain Haramoney by diplomacy with the Archons of the Celestial Assembly.
 
-- **Archon:[Vizier](./vizier)**
+- **Archon: [Vizier](./vizier)**
   - **[Airman](./airman)** – Pilot of Chiron ship
   - **[Concubine](docs/celestial/concubine)** – Vizier's partner.
   - **[Ruinologist](./ruinologist)** - Celestial explorers who explore ruins and recover artifacts.
@@ -36,7 +36,7 @@ The Celestials are foreigners to Isfet, they want to maintain Haramoney by diplo
 Half a century ago, the Soulbreakers took control during the Rebellion, disbanding the Grand Lodge of the Hive.
 Today, under the guidance of the Conjoined Prophets, Isfetans go to the Hive for procreation, and Hivers come to Isfet to see the Sakran.
 
-- **Archon:[Sakran](./sakran)**
+- **Archon: [Sakran](./sakran)**
   - **[Hesperide](./hesperide)** – Slave wifes of Sakran.
   - **[Overseer](./overseer)** – 
 	- **[Slaves](./slaves)** – 
@@ -47,7 +47,7 @@ The Grand Lodge Mejjikh, once rulers of Hive station and leaders of Recolonisati
 The Mejjikh are determined to seek revenge and to regain their former glory.
 They mask their arrogance and pretend their hardship to gain sympathy, especially when dealing with the Celestials.
 
-- **Archon:[Emir-Bazaar](./emir-bazaar)**
+- **Archon: [Emir-Bazaar](./emir-bazaar)**
   - **[Ammit](./ammit)** – Desert tracker with rifle and pet dog.
   - **[Crawler Driver](./driver)** –  
   - **[Dog](./dog)** - 
@@ -57,7 +57,7 @@ They mask their arrogance and pretend their hardship to gain sympathy, especiall
 The Karaheem led the rebellion against the Mejjikh. 
 A militant lodge, they are responsible for fighting the ooze and the creatures that threaten recolonisation.
 
-- **Archon:[Tarkhan](./tarkhan)**
+- **Archon: [Tarkhan](./tarkhan)**
   - **[Afshagar](./afshagar)** - Hunter of psionic users.
   - **[Harpy](docs/karaheem/harpy)** - Gene modified warrior female.
 	
@@ -66,7 +66,7 @@ A militant lodge, they are responsible for fighting the ooze and the creatures t
 > _"..."_  
 Industrial lodge responsible for constructing Oord-Maaj and is the primary contributor to recolonisation.
 
-- **[Archon: Registrat](./registrat)**
+- **Archon: [Registrat](./registrat)**
   - **[Cannoneer](./cannoneer)** - Uses sattelite imagery to shoot rocket artillery.
   - **[Machinist](./machinist)** -  
   
@@ -75,7 +75,7 @@ Industrial lodge responsible for constructing Oord-Maaj and is the primary contr
 Responsible for feeding the planet and powering the recolonisation, Gaphrath researchers try to restore lost knowledge. 
 However, it has a bad reputation for greed and dishonesty, and the older generations resent their betrayal and responsibility for the Mejjikh genocide.
 
-- **[Archon: Teahost](./teahost)**
+- **Archon: [Teahost](./teahost)**
   - **[Scientist](./scientist)** - Research augment implant and human enhancement.
   - **[Culinarian](./culinarian)** - 
 
@@ -84,7 +84,7 @@ However, it has a bad reputation for greed and dishonesty, and the older generat
 Ligiphians provide escapism to the world of Recolonisation, supplying drugs and entertainment.
 Ruthless businessmen, the Ligiphians are social but paranoid, as their free cities are overcrowded and lawless, ruled by gangs.
 
-- **[Archon: Symposiarch](./symposiarch)**
+- **Archon: [Symposiarch](./symposiarch)**
   - **[Radiohost](./radiohost)** - 
   - **[Courtisal](./courtisal)** - 
   - **[Lanista](./lanista)** - 
@@ -96,7 +96,7 @@ The planet's smallest lodge, currently under quarantine due to contagious tumors
 Destitute, impoverished, and rarely seen outside of Eriph, they are a melancholic and lost people.
 
 - **Archon: None**
-- **[Weaver](./weaver)** - Fight ifreet with equipment and prayer ceremony. Worker for the Psi-Amplifier.
+- **[Weaver](docs/eriphot/weaver)** - Fight ifreet with equipment and prayer ceremony. Worker for the Psi-Amplifier.
 
 ### **Other**
 > _"..."_  
