@@ -62,3 +62,47 @@ Each lodge has its own sect of Psihrs which approach Psionics differently.
 | **Black Revelations**			| |
 
 ---
+
+## Sect of Biokinesis
+
+### Psihr
+
+| Psihr Name					| Description                                                              |
+|-------------------------------|--------------------------------------------------------------------------|
+| **Hour of the Worm**			| |
+| **Lust for Nudity**			| |
+| **Withering Heart**			| |
+| **Acid Eyelids**				| |
+| **Forbidden Degustation**		| |
+| **Sense Life**				| |
+| **Gutturner**					| |
+| **Striking Claws**			| |
+| **Reduce**					| |
+| **Enlargen**					| |
+| **Endogenous Analgesic**		| |
+| **Sweatgrinder**				| |
+| **Stupor**					| |
+| **Sticky Hands**				| |
+| **Total Homeostasis**			| |
+| **Handmade Halal**			| |
+| **Primal Might**				| |
+| **Copper Skin**				| |
+
+---
+
+## Sect of Gehenna
+
+### Psihr
+
+| Psihr Name					| Description                                                              |
+|-------------------------------|--------------------------------------------------------------------------|
+| **Counter-Resonance**			| |
+| **Thermal Treatment**			| |
+| **Burning Man**				| |
+| **Engulf**					| |
+| **Prayers to the Fire**		| |
+| **Biting Cold**				| |
+| **Fiery Fists**				| |
+| **Pyrokinesis**				| |
+
+---

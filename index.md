@@ -37,7 +37,7 @@ Half a century ago, the Soulbreakers took control during the Rebellion, disbandi
 Today, under the guidance of the Conjoined Prophets, Isfetans go to the Hive for procreation, and Hivers come to Isfet to see the Sakran.
 
 - **Archon: [Sakran](./sakran)**
-  - **[Hesperide](./hesperide)** – Slave wifes of Sakran.
+  - **[Hesperide](docs/soulbreaker/hesperide)** – Slave wifes of Sakran.
   - **[Overseer](./overseer)** – 
 	- **[Slaves](./slaves)** – 
 
@@ -48,7 +48,7 @@ The Mejjikh are determined to seek revenge and to regain their former glory.
 They mask their arrogance and pretend their hardship to gain sympathy, especially when dealing with the Celestials.
 
 - **Archon: [Emir-Bazaar](./emir-bazaar)**
-  - **[Ammit](./ammit)** – Desert tracker with rifle and pet dog.
+  - **[Ammit](docs/mejjikh/ammit)** – Desert tracker with rifle and pet dog.
   - **[Crawler Driver](./driver)** –  
   - **[Dog](./dog)** - 
 
@@ -88,7 +88,7 @@ Ruthless businessmen, the Ligiphians are social but paranoid, as their free citi
   - **[Radiohost](./radiohost)** - 
   - **[Courtisal](./courtisal)** - 
   - **[Lanista](./lanista)** - 
-	- **[Craterius](./craterius)** - Fighting slave for entertainment.
+	- **[Craterius](docs/ligiph/craterius)** - Fighting slave for entertainment.
 
 ### ♾️ **Eriphoth**
 > _"..."_  
