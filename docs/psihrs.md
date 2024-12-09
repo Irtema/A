@@ -106,3 +106,22 @@ Each lodge has its own sect of Psihrs which approach Psionics differently.
 | **Pyrokinesis**				| |
 
 ---
+
+## Sect of Flux
+
+### Psihr
+
+| Psihr Name					| Description                                                              |
+|-------------------------------|--------------------------------------------------------------------------|
+| **Leap of Faith**				| |
+| **Paradoxal Path**			| |
+| **Phantom Loophole**			| |
+| **Shimmering**				| |
+| **Displacement**				| |
+| **Steal Water**				| |
+| **Far Catcher**				| |
+| **Summon Monster**			| |
+| **Knife distance**			| |
+| **Rude Banish**				| |
+
+---

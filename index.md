@@ -76,7 +76,7 @@ Responsible for feeding the planet and powering the recolonisation, Gaphrath res
 However, it has a bad reputation for greed and dishonesty, and the older generations resent their betrayal and responsibility for the Mejjikh genocide.
 
 - **Archon: [Teahost](./teahost)**
-  - **[Scientist](./scientist)** - Research augment implant and human enhancement.
+  - **[Scientist](docs/gaphrat/scientist)** - Research augment implant and human enhancement.
   - **[Culinarian](./culinarian)** - 
 
 ### ⚕️ **Free Cities of Ligiph**
@@ -104,4 +104,4 @@ Characters that do not fall under a lodge or do not reside Ord-Maaj.
 
 - **[STYX: Styxet](./styx)**
 - **[Wanderers](./wanderer)**
-- **[The Caravan](./caravan)**
+- **[The Caravan](docs/other/caravan)**
