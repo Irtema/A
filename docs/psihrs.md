@@ -17,6 +17,11 @@ Each lodge has its own sect of Psihrs which approach Psionics differently.
 
 - **Sect of Orchestration** - The default sect, accessible by all Faqirs. 16 Psihrs.
 - **Sect of the Silent Knowledge** - The Eriphot sect, specialising in stealth and defence. 9 Psihrs.
+- **Sect of Biokinesis** - Soulbreaker sect, used by the Hesperides. Specialises in buffs and curses that affect the target. 18 Psihrs.
+- **Sect of Gehenna** - Gaphrat sect that specialises in fire and temperature psionics. 8 Psihrs.
+- **Sect of Flux** - The sect of Ligiph. Uses psihrs to travel and confuse others. 10 Psihrs.
+- **Sect of Intergration** - Mejjikh sect. Uses Psihrs to punish and manipulate people. 14 Psihrs.
+- **Sect of Electrocosm** - Bruckner sect. Uses electric Psihrs that can confuse others. 8 Psihrs.
 
 ---
 
@@ -125,3 +130,42 @@ Each lodge has its own sect of Psihrs which approach Psionics differently.
 | **Rude Banish**				| |
 
 ---
+
+## Sect of Integration
+
+### Psihr
+
+| Psihr Name					| Description                                                              |
+|-------------------------------|--------------------------------------------------------------------------|
+| **Forced Empathy**			| |
+| **Psionic Entanglement**		| |
+| **Full Mouth**				| |
+| **False Fatigue**				| |
+| **Mind Scan**					| |
+| **Friendly Vibrations**		| |
+| **Valiant Persuasion**		| |
+| **Acute Paranoia**			| |
+| **Disarming Smile**			| |
+| **Suicide Time**				| |
+| **Layered Terror**			| |
+| **Declaration of Sanctity**	| |
+| **Telepathy**					| |
+| **Annexia**					| |
+
+
+---
+
+## Sect of Electrocosm**
+
+### Psihr
+
+| Psihr Name					| Description                                                              |
+|-------------------------------|--------------------------------------------------------------------------|
+| **Electroshield**				| |
+| **Holographic Mask**			| |
+| **Deelectify**				| |
+| **Atmospheric Discharge**		| |
+| **Synapse Churn**				| |
+| **Static Charge**				| |
+| **Optical Veil**				| |
+| **Fireflies**					| |

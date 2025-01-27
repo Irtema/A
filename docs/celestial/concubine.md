@@ -30,7 +30,7 @@ Does not get access to lodge Psihrs.
 | Perception      | 9-12           |
 | Health          | 9-12           |
 
-- *This character is a strong Faqir and gets additional Psihr slots.*
+- *This character is a powerful psionic and gets additional Psihr slots.*
 
 - **Traumaturgy**
 - **Navigation**

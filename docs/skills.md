@@ -75,6 +75,12 @@ The ability to notice ambushes, traps, hidden dangers, and secrets before they b
 
 ## Rare skills
 
+### Biosculpting
+Knowledge of the answers to the riddles of the cellular structure of the body, hormonal responses and combinations of genes. Familiarity with the webs of genetic tuning and prediction of cascades of mutations and knowledge of loopholes in immunity.
+
+### Science
+Familiarity with the arrays of ancient knowledge and - more importantly - the latest experimental checks and refutations of ancient baggage, which deos not always turn out to be true.
+
 ### Ruinology
 
 
